@@ -1,0 +1,25 @@
+{
+  "name": "examen-u2-aaron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ao8/Examen-U2-Aaron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ao8/Examen-U2-Aaron/issues"
+  },
+  "homepage": "https://github.com/3ao8/Examen-U2-Aaron#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6"
+  }
+}
